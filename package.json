@@ -1,0 +1,12 @@
+{
+  "name": "x_systems_test",
+  "version": "1.0.0",
+  "description": "video call ",
+  "main": "index.js",
+  "author": "oussama",
+  "license": "MIT",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  }
+}
